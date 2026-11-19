@@ -1,0 +1,6 @@
+name: conversation_memory
+version: 1.0.0
+description: "Local SQLite-backed conversation memory — persistent turn indexing, semantic search, and explicit recall tools for cross-session context."
+config_keys:
+  - memory.conversation_memory
+requires_env: []
